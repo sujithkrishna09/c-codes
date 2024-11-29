@@ -4,7 +4,7 @@ int main()
 printf("enter how many numbers you want");
 scanf("%d",&n);
 printf("the series is\n");
-for(i=1;i<=n;i+=2)
+for(i=1;i<=n;i+=1)
 {
 printf("%d\n",i);
 }
